@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Obsidian dark background -->
+    <path
+        android:fillColor="#0A0A0A"
+        android:pathData="M0,0h108v108h-108z"/>
+    <!-- Gold accent circle ring -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,8a46,46 0 1,1 0,92a46,46 0 1,1 0,-92zM54,14a40,40 0 1,0 0,80a40,40 0 1,0 0,-80"/>
+    <!-- Zemen text stylized -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M38,44 L70,44 L70,48 L38,48 Z M38,52 L70,52 L70,56 L38,56 Z M38,60 L58,60 L58,64 L38,64 Z"/>
+    <!-- Decorative Geez-inspired element -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,30 L58,30 L54,38 Z M50,78 L58,78 L54,70 Z"/>
+</vector>

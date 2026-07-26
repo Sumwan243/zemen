@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Month names (Amharic) -->
+    <string-array name="months_am">
+        <item>መስከረም</item>
+        <item>ጥቅምት</item>
+        <item>ኅዳር</item>
+        <item>ታኅሣሥ</item>
+        <item>ጥር</item>
+        <item>የካቲት</item>
+        <item>መጋቢት</item>
+        <item>ሚያዝያ</item>
+        <item>ግንቦት</item>
+        <item>ሰኔ</item>
+        <item>ሐምሌ</item>
+        <item>ነሐሴ</item>
+        <item>ጳጉሜን</item>
+    </string-array>
+
+    <!-- Day of week (Amharic, Sunday first) -->
+    <string-array name="days_am">
+        <item>እሁድ</item>
+        <item>ሰኞ</item>
+        <item>ማክሰ</item>
+        <item>ረብድ</item>
+        <item>ሐሙስ</item>
+        <item>ዓርብ</item>
+        <item>ቅዳሜ</item>
+    </string-array>
+
+    <!-- Seasons -->
+    <string name="season_kiremt">ክረምት</string>
+    <string name="season_kiremt_desc">የዝናብ ወቅት. ከሰኔ እስከ መስከረም ድረስ. የኢትዮጵያ ከፍል-ምድሮች በየቀኑ የሚዘነቡ ጥልቅ አስተማማኝ የሰማይ ውሃ ያገኛሉ. ገበሬዎች ዋና ሰብሎቻቸውን ይዘራሉ.</string>
+    <string name="season_tsedey">ጅደይ</string>
+    <string name="season_tsedey_desc">የማርቆስ ወቅት. ከመስከረም እስከ ታኅሣሥ ድረስ. አካባቢው ወይራማ ቀለም ይወስዳል. ሰብሎች ይበሩ እና የመስቀል ድሮ አበቦች በሰራዊት ላይ ይበቁላሉ.</string>
+    <string name="season_bega">በጋ</string>
+    <string name="season_bega_desc">የደረቅ ወቅት. ከታኅሣሥ እስከ ሚያዝያ ድረስ. ጽግት ሰማያዊ ሰማይ የከፍል-ምድሮቹን ያጋጥማል. ቲምቃት በዚህ ጊዜ ይከበራል.</string>
+    <string name="season_belg">በልግ</string>
+    <string name="season_belg_desc">የአቋራጭ ጥልቅስ ወቅት. ከሚያዝያ እስከ ሰኔ ድረስ. የመስቀል ድሮ አበቦች በተራሮች ላይ ይበቁላሉ. አካባቢው በተስፋፊ ማህበረ ሰብ ይተሰማል.</string>
+    <string name="season_pagume">ጳጉሜን</string>
+    <string name="season_pagume_desc">የ13ኛው ወር. 5 ቀናት ዓመት ከዓመት ወደ ዓመት የሚለውጥ ጊዜ. አገር አቀፍ ትምህርት በአብይ አመት መጨረሻ ላይ.</string>
+
+    <!-- Converter -->
+    <string name="converter_title">የቀን ማሻገሪያ</string>
+    <string name="convert">ማሻገሪያ</string>
+    <string name="swap">መቀያየሪያ</string>
+    <string name="ethiopian_date">የኢትዮጵያ ቀን</string>
+    <string name="gregorian_date">ግሪጎሪያን ቀን</string>
+    <string name="ethiopian_result">የኢትዮጵያ ውጤት</string>
+    <string name="gregorian_result">ግሪጎሪያን ውጤት</string>
+
+    <!-- Settings -->
+    <string name="settings_language">ቋንዋ</string>
+    <string name="settings_numerals">ቁጥሮች</string>
+    <string name="settings_accent">የላይኛው ቀለም</string>
+    <string name="settings_theme">ገበታ</string>
+    <string name="settings_holidays">የበዓል ደረጃዎች</string>
+    <string name="settings_dark">ጨለማ</string>
+    <string name="settings_light">ብሩህ</string>
+    <string name="settings_system">ስርዓት</string>
+    <string name="settings_orthodox">ኦርቶዶክስ</string>
+    <string name="settings_national">ብሔራዊ</string>
+    <string name="settings_islamic">እስላማዊ</string>
+
+    <!-- Bahra Hasab -->
+    <string name="bahra_hasab_title">ባሕረ ሕኃ፵</string>
+    <string name="bahra_hasab_calculate">ማስሊያ</string>
+    <string name="bahra_hasab_year_hint">የኢትዮጵያ ዓመት</string>
+    <string name="bahra_hasab_evangelist">ወንጌላዊ</string>
+    <string name="bahra_hasab_fasika">ፋሲካ (ፋሲካ)</string>
+
+    <!-- Pagume -->
+    <string name="pagume_desc">የ13ኛው ወር. 5 ቀናት ዓመት ከዓመት ወደ ዓመት የሚለውጥ ጊዜ.</string>
+
+    <!-- Widget -->
+    <string name="widget_description">የኢትዮጵያ ቀን መቁጠባዊ መሣሪያ</string>
+</resources>

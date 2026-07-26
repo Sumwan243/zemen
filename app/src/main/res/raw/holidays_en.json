@@ -1,0 +1,126 @@
+{
+  "holidays": [
+    {
+      "id": "enkutatash",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 1,
+      "name": "Enkutatash",
+      "shortDesc": "Ethiopian New Year",
+      "longDesc": "Enkutatash, the Ethiopian New Year, falls on Meskerem 1 (September 11). It marks the end of the rainy season and the beginning of spring. Celebrated with singing, dancing, exchanging of Adey Abeba flowers, and special meals.",
+      "emoji": "🌸"
+    },
+    {
+      "id": "meskel",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 17,
+      "name": "Meskel",
+      "shortDesc": "Finding of the True Cross",
+      "longDesc": "Meskel celebrates the discovery of the True Cross. The celebration features the Demera bonfire decorated with Meskel daisies, singing, and dancing.",
+      "emoji": "✝️"
+    },
+    {
+      "id": "kidus_mikael",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 12,
+      "name": "Kidus Mikael",
+      "shortDesc": "St. Michael (monthly, 12th)",
+      "longDesc": "Kidus Mikael (St. Michael) is honored on the 12th of every Ethiopian month. Special church services are held.",
+      "emoji": "⚔️",
+      "isRecurring": true
+    },
+    {
+      "id": "kidus_giorgis",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 23,
+      "name": "Kidus Giorgis",
+      "shortDesc": "St. George (monthly, 23rd)",
+      "longDesc": "Kidus Giorgis (St. George) is celebrated on the 23rd of every Ethiopian month. St. George is the patron saint of Ethiopia.",
+      "emoji": "🗡️",
+      "isRecurring": true
+    },
+    {
+      "id": "gena",
+      "tier": "orthodox",
+      "etMonth": 4,
+      "etDay": 29,
+      "name": "Gena",
+      "shortDesc": "Ethiopian Christmas",
+      "longDesc": "Gena is the Ethiopian Orthodox celebration of Christmas on Tahsas 29 (January 7). Marked by church services and traditional games.",
+      "emoji": "🎄"
+    },
+    {
+      "id": "timkat",
+      "tier": "orthodox",
+      "etMonth": 5,
+      "etDay": 11,
+      "name": "Timkat",
+      "shortDesc": "Epiphany",
+      "longDesc": "Timkat celebrates the baptism of Jesus Christ. Features processions with the Tabot and blessings at bodies of water.",
+      "emoji": "⚘"
+    },
+    {
+      "id": "kidus_yohannes",
+      "tier": "orthodox",
+      "etMonth": 11,
+      "etDay": 26,
+      "name": "Kidus Yohannes",
+      "shortDesc": "St. John the Baptist",
+      "longDesc": "Commemorates St. John the Baptist on Sene 26. Special church services and prayers.",
+      "emoji": "⚽"
+    },
+    {
+      "id": "adwa_victory",
+      "tier": "national",
+      "etMonth": 6,
+      "etDay": 23,
+      "name": "Adwa Victory Day",
+      "shortDesc": "Victory of Adwa",
+      "longDesc": "Commemorates the Ethiopian victory over Italy at the Battle of Adwa on March 1, 1896. A symbol of African sovereignty.",
+      "emoji": "🇪🇹"
+    },
+    {
+      "id": "workers_day",
+      "tier": "national",
+      "etMonth": 8,
+      "etDay": 23,
+      "name": "Workers' Day",
+      "shortDesc": "International Workers' Day",
+      "longDesc": "International Workers' Day on Miazia 23 (May 1). Honors labor movement and workers' rights.",
+      "emoji": "✂️"
+    },
+    {
+      "id": "patriots_victory",
+      "tier": "national",
+      "etMonth": 8,
+      "etDay": 27,
+      "name": "Patriots' Victory Day",
+      "shortDesc": "Victory over Italian occupation",
+      "longDesc": "Commemorates the liberation of Ethiopia from Italian occupation on Miazia 27 (May 5), 1941.",
+      "emoji": "🇪🇹"
+    },
+    {
+      "id": "derg_downfall",
+      "tier": "national",
+      "etMonth": 9,
+      "etDay": 20,
+      "name": "Derg Downfall Day",
+      "shortDesc": "Fall of the Derg regime",
+      "longDesc": "Marks the fall of the Derg military junta on Ginbot 20 (May 28), 1991.",
+      "emoji": "📡"
+    },
+    {
+      "id": "nations_day",
+      "tier": "national",
+      "etMonth": 3,
+      "etDay": 29,
+      "name": "Nations, Nationalities & Peoples' Day",
+      "shortDesc": "Ethnic diversity celebration",
+      "longDesc": "Celebrated on Hidar 29 (December 9). Honors the nations, nationalities, and peoples of Ethiopia.",
+      "emoji": "🌍"
+    }
+  ]
+}

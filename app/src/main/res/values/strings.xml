@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zemen</string>
+    <string name="widget_description">Ethiopian Calendar Widget</string>
+
+    <!-- Tab labels -->
+    <string name="tab_today">Today</string>
+    <string name="tab_calendar">Calendar</string>
+    <string name="tab_feasts">Feasts</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Month names (English) -->
+    <string-array name="months_en">
+        <item>Meskerem</item>
+        <item>Tikimt</item>
+        <item>Hidar</item>
+        <item>Tahsas</item>
+        <item>Tir</item>
+        <item>Yekatit</item>
+        <item>Megabit</item>
+        <item>Miazia</item>
+        <item>Ginbot</item>
+        <item>Sene</item>
+        <item>Hamle</item>
+        <item>Nehase</item>
+        <item>Pagume</item>
+    </string-array>
+
+    <!-- Day of week (English, Sunday first) -->
+    <string-array name="days_en">
+        <item>Su</item>
+        <item>Mo</item>
+        <item>Tu</item>
+        <item>We</item>
+        <item>Th</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+
+    <!-- Seasons -->
+    <string name="season_kiremt">Kiremt</string>
+    <string name="season_kiremt_desc">The rainy season. The Ethiopian highlands turn lush green with daily rains, creating dramatic landscapes of mist-covered valleys and cascading waterfalls. Farmers plant their main crops and the countryside thrives.</string>
+    <string name="season_tsedey">Tsedey</string>
+    <string name="season_tsedey_desc">The harvest season, running roughly from September through December. The landscape shifts to golden tones as crops ripen and the famous Meskel daisies bloom across the highlands. Families gather for celebrations.</string>
+    <string name="season_bega">Bega</string>
+    <string name="season_bega_desc">The dry cool season, from December through March. Clear blue skies dominate the highlands, and this is when Timkat celebrations take place in open-air ceremonies. The air is crisp and the stars are brilliant at night.</string>
+    <string name="season_belg">Belg</string>
+    <string name="season_belg_desc">The short rains season, from March through June. The countryside blossoms with yellow Meskel daisies and the brief spring rains bring new life before the heavy Kiremt season. It is a time of renewal and preparation.</string>
+    <string name="season_pagume">Pagume</string>
+    <string name="season_pagume_desc">The 13th month of the Ethiopian calendar. A sacred 5-day period of transition between years. It is the most unusual and contemplative time in the Ethiopian year, honored with special reverence.</string>
+
+    <!-- Converter -->
+    <string name="converter_title">Date Converter</string>
+    <string name="convert">Convert</string>
+    <string name="swap">Swap</string>
+    <string name="ethiopian_date">Ethiopian Date</string>
+    <string name="gregorian_date">Gregorian Date</string>
+    <string name="ethiopian_result">Ethiopian Result</string>
+    <string name="gregorian_result">Gregorian Result</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Language</string>
+    <string name="settings_numerals">Numerals</string>
+    <string name="settings_accent">Accent Color</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_holidays">Holiday Tiers</string>
+    <string name="settings_dark">Dark</string>
+    <string name="settings_light">Light</string>
+    <string name="settings_system">System</string>
+    <string name="settings_orthodox">Orthodox</string>
+    <string name="settings_national">National</string>
+    <string name="settings_islamic">Islamic</string>
+
+    <!-- Bahra Hasab -->
+    <string name="bahra_hasab_title">Bahra Hasab</string>
+    <string name="bahra_hasab_calculate">Calculate</string>
+    <string name="bahra_hasab_year_hint">Ethiopian Year</string>
+    <string name="bahra_hasab_evangelist">Evangelist</string>
+    <string name="bahra_hasab_fasika">Fasika (Easter)</string>
+
+    <!-- Pagume -->
+    <string name="pagume_desc">The 13th month. 5 days of transition between years.</string>
+</resources>

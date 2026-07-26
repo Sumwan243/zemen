@@ -1,0 +1,126 @@
+{
+  "holidays": [
+    {
+      "id": "enkutatash",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 1,
+      "name": "እንጢጣሽ",
+      "shortDesc": "የኢትዮጵያ አዳዲስ ዓመት",
+      "longDesc": "እንጢጣሽ የኢትዮጵያ አዳዲስ ዓመት በመስከረም 1 (ሴፕቴምበር 11) ይደረባል። የዝናብ ወቅት መውጊያ እና የጸደይ መጀመርን ይመልክታል።",
+      "emoji": "🌸"
+    },
+    {
+      "id": "meskel",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 17,
+      "name": "መስቀል",
+      "shortDesc": "የእምነት መስቀል አገኝቶ",
+      "longDesc": "መስቀል የእምነት መስቀል አገኝቶ ይደረባል። በመስቀል ድሮ አበቦች የተጌጠመ ደመራ ይካሄዳል።",
+      "emoji": "✝️"
+    },
+    {
+      "id": "kidus_mikael",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 12,
+      "name": "ቅዱስ ሚካኤል",
+      "shortDesc": "ቅዱስ ሚካኤል (የወር ሀሙስ ቀን)",
+      "longDesc": "ቅዱስ ሚካኤል በኢትዮጵያ ወር ሀሙስ ቀን ይከበራል። ልዩ የቤተ ክርስቲያን አገልግሎት ይካሄዳል።",
+      "emoji": "⚔️",
+      "isRecurring": true
+    },
+    {
+      "id": "kidus_giorgis",
+      "tier": "orthodox",
+      "etMonth": 1,
+      "etDay": 23,
+      "name": "ቅዱስ ጊዮርጊስ",
+      "shortDesc": "ቅዱስ ጊዮርጊስ (የወር 23 ቀን)",
+      "longDesc": "ቅዱስ ጊዮርጊስ በኢትዮጵያ ወር 23 ቀን ይከበራል። ቅዱስ ጊዮርጊስ የኢትዮጵያ ማጠራበት ቅዱስ ነው።",
+      "emoji": "🗡️",
+      "isRecurring": true
+    },
+    {
+      "id": "gena",
+      "tier": "orthodox",
+      "etMonth": 4,
+      "etDay": 29,
+      "name": "ገና",
+      "shortDesc": "የኢትዮጵያ ገና",
+      "longDesc": "ገና የኢትዮጵያ ኦርቶዶክስ የገና አካል በታኅሣሥ 29 (ጥር 7) ይከበራል።",
+      "emoji": "🎄"
+    },
+    {
+      "id": "timkat",
+      "tier": "orthodox",
+      "etMonth": 5,
+      "etDay": 11,
+      "name": "ጥምቀት",
+      "shortDesc": "ጥምቀት",
+      "longDesc": "ጥምቀት የኢየሱስ ክርስቶስ ጥምቀት ይከበራል። በታቦት ላይ ያለውን አገልግሎት ያጠናቀቃል።",
+      "emoji": "⚘"
+    },
+    {
+      "id": "kidus_yohannes",
+      "tier": "orthodox",
+      "etMonth": 11,
+      "etDay": 26,
+      "name": "ቅዱስ ዮሐነስ",
+      "shortDesc": "ቅዱስ ዮሐነስ",
+      "longDesc": "ቅዱስ ዮሐነስ በሰኔ 26 ይከበራል።",
+      "emoji": "⚽"
+    },
+    {
+      "id": "adwa_victory",
+      "tier": "national",
+      "etMonth": 6,
+      "etDay": 23,
+      "name": "የአድዋ ድል ቀን",
+      "shortDesc": "የአድዋ ድል ቀን",
+      "longDesc": "የአድዋ ድል ቀን እ.ኤ.አ. በ1896 ዓ.ም. የኢትዮጵያ አሸናፊነት ይመልከታል።",
+      "emoji": "🇪🇹"
+    },
+    {
+      "id": "workers_day",
+      "tier": "national",
+      "etMonth": 8,
+      "etDay": 23,
+      "name": "የሰራተኞች ቀን",
+      "shortDesc": "ዓለም አቀፍ የሰራተኞች ቀን",
+      "longDesc": "ዓለም አቀፍ የሰራተኞች ቀን በሚያዝያ 23 (ሜይ 1) ይደረባል።",
+      "emoji": "✂️"
+    },
+    {
+      "id": "patriots_victory",
+      "tier": "national",
+      "etMonth": 8,
+      "etDay": 27,
+      "name": "የአርበኞች ድል ቀን",
+      "shortDesc": "የጣሊያን ወረራ አግፊ",
+      "longDesc": "የአርበኞች ድል ቀን በሚያዝያ 27 (ሜይ 5) 1941 ይደረባል።",
+      "emoji": "🇪🇹"
+    },
+    {
+      "id": "derg_downfall",
+      "tier": "national",
+      "etMonth": 9,
+      "etDay": 20,
+      "name": "የደርግ ውውልቅ ቀን",
+      "shortDesc": "የደርግ አግባብ ውውልቅ",
+      "longDesc": "የደርግ ወታተኛ አገዛዝ በግንቦት 20 (ሜይ 28) 1991 ውውልቅ ይደረባል።",
+      "emoji": "📡"
+    },
+    {
+      "id": "nations_day",
+      "tier": "national",
+      "etMonth": 3,
+      "etDay": 29,
+      "name": "የብሔሮች ቀን",
+      "shortDesc": "የብሔሮች ቀን",
+      "longDesc": "በኅዳር 29 (ዲሴምበር 9) ይደረባል።",
+      "emoji": "🌍"
+    }
+  ]
+}
